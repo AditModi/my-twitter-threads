@@ -11,8 +11,18 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 <details>
   <summary><b>AWS Threads</b></summary>
   
+  - [how to get started with Cloud/AWS ?](https://twitter.com/adi_12_modi/status/1537065679156719619?s=20&t=iPWZytTGFd-O5oWV8g471g)
   - []()
   
+</details>
+
+<details>
+  <summary><b>AWS Event Threads</b></summary>
+  
+  - [In-Person Event: hands-on Workshop on Amazon Elastic Kubernetes Service (EKS) by Nilesh Vagela](https://twitter.com/adi_12_modi/status/1535238917439442946?s=20&t=iPWZytTGFd-O5oWV8g471g)
+  - [In-Person Event: hands-on Workshop on EKS Kubernetes for Developers by Ravi Soni](https://twitter.com/adi_12_modi/status/1544178208106762242?s=20&t=iPWZytTGFd-O5oWV8g471g)
+  - []()
+
 </details>
 
 <details>
