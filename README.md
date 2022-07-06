@@ -12,7 +12,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
   <summary><b>AWS Threads</b></summary>
   
   - [how to get started with Cloud/AWS ?](https://twitter.com/adi_12_modi/status/1537065679156719619?s=20&t=iPWZytTGFd-O5oWV8g471g)
-  - []()
+  - [Study Tips for Passing AWS Certifications!](https://twitter.com/adi_12_modi/status/1544668711893708800?s=20&t=td3VwP7d01F_euNLlBwmtQ)
   
 </details>
 
