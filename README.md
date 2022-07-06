@@ -17,12 +17,11 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 </details>
 
 <details>
-  <summary><b>AWS Event Threads</b></summary>
+  <summary><b>DevOps Threads</b></summary>
   
-  - [In-Person Event: hands-on Workshop on Amazon Elastic Kubernetes Service (EKS) by Nilesh Vagela](https://twitter.com/adi_12_modi/status/1535238917439442946?s=20&t=iPWZytTGFd-O5oWV8g471g)
-  - [In-Person Event: hands-on Workshop on EKS Kubernetes for Developers by Ravi Soni](https://twitter.com/adi_12_modi/status/1544178208106762242?s=20&t=iPWZytTGFd-O5oWV8g471g)
+  - [Highlights from Attending the kubernetes AI Day](https://twitter.com/adi_12_modi/status/1526117942768828416?s=20&t=iPWZytTGFd-O5oWV8g471g)
   - []()
-
+  
 </details>
 
 <details>
@@ -32,3 +31,11 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
   
 </details>
 
+<details>
+  <summary><b>AWS Event Threads</b></summary>
+  
+  - [In-Person Event: hands-on Workshop on Amazon Elastic Kubernetes Service (EKS) by Nilesh Vagela](https://twitter.com/adi_12_modi/status/1535238917439442946?s=20&t=iPWZytTGFd-O5oWV8g471g)
+  - [In-Person Event: hands-on Workshop on EKS Kubernetes for Developers by Ravi Soni](https://twitter.com/adi_12_modi/status/1544178208106762242?s=20&t=iPWZytTGFd-O5oWV8g471g)
+  - []()
+
+</details>
