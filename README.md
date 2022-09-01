@@ -25,7 +25,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 </details>
 
 <details>
-  <summary><b>System Design threads</b></summary>
+  <summary><b>Cloud Tech threads</b></summary>
   
   - []()
   
