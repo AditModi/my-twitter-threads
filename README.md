@@ -85,3 +85,10 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
   - []()
 
 </details>
+
+<details>
+  <summary><b>Random Tweets</b></summary>
+    
+  - [How to Land an AWS Job](https://twitter.com/adi_12_modi/status/1565714181856251905?s=20)
+
+</details>
